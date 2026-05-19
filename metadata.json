@@ -1,0 +1,6 @@
+{
+  "name": "CuanCermat",
+  "description": "Aplikasi pengatur keuangan pribadi untuk anak muda Indonesia dengan fitur budgeting, visual report, dan AI input.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
