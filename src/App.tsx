@@ -139,7 +139,7 @@ export default function App() {
          
         <div className="flex justify-between items-center mb-6 relative z-10">
           <div>
-            <p className="text-orange-100 text-xs font-medium uppercase tracking-wider">Selamat Sore, Budi! 👋</p>
+            <p className="text-orange-100 text-xs font-medium uppercase tracking-wider">Selamat Sore, Vansha! 👋</p>
             <h1 className="text-2xl font-display font-bold">CuanCermat</h1>
           </div>
           <motion.div 
